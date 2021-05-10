@@ -50,7 +50,6 @@ Una red así se acerca mucho a lo que llamamos Internet, pero hay algo que nos f
 
 Entonces estamos conectados a la infraestructura telefónica. El siguiente paso es enviar el mensaje desde nuestra red a la red que queremos llegar. Para lograr eso, conectaremos nuestra red a un proveedor de servicios de internet (ISP de sus siglas en inglés Internet Service Provider). Un ISP es una empresa que gestiona algunos enrutadores especiales interconectados, que también pueden acceder a enrutadores de otros ISP. Así, el mensaje de nuestra red es llevada a través de la red de redes de ISP, hasta la red de destino. Internet consiste en toda esta infraestructura de redes.
 
-![](https://media.prod.mdn.mozit.cloud/attachments/2014/08/22/8453/62b5d675e5881278ab3aec994f4fb9f4/internet-schema-7.png)
 
 ### **Encontrando ordenadores**
 
@@ -60,15 +59,6 @@ Para los ordenadores es un identificador simple, pero los humanos tienen mayor d
 
 ![](https://media.prod.mdn.mozit.cloud/attachments/2014/08/21/8405/edb9541101a98f8fec92d5ec5d921670/dns-ip.png)
 
-### **Internet y la web**
-
-Como puedes notar, cuando navegamos por la web con un navegador, normalmente utilizamos el nombre de dominio para llegar a un sitio web. ¿Significa eso que Internet y la Web son la misma cosa? No es tan simple. Como vimos, Internet es una infraestructura técnica que permite que miles de millones de ordenadores estén conectadas entre sí. Algunos de estos ordenadores, llamados servidores web son capaces de enviar mensajes inteligibles a los navegadores. Por tanto Internet es una infraestructura, mientras que la Web es un servicio construido sobre dicha infraestructura. Cabe señalar que existen otros servicios soportados por Internet, como es el correo electrónico e IRC.
-
-- ## **Frontend y Backend**
-
-Descubre comunicación nos dice:
-
-![](https://descubrecomunicacion.com/wp-content/uploads/2019/07/forndend-backend-post2.jpg)
 
 Son dos partes fundamentales de la programación de una aplicación web. 
 
@@ -78,7 +68,6 @@ Es la parte de una aplicación que interactúa con los usuarios, es conocida com
 
 Un desarrollador frontend debe conocer los siguientes lenguajes de programación: HTML5, CSS3, JavaScript, Jquery, Ajax.
 
-![](https://descubrecomunicacion.com/wp-content/uploads/2019/07/frondend-programing-language.jpg)
 
 ### **Backend**
 
@@ -101,37 +90,39 @@ Por otro lado, un desarrollador Full Stack es el encargado de manejar cada uno d
 
 El Internet de las cosas (IoT) es un nombre para la colección agregada de dispositivos habilitados para red, excluyendo los ordenadores tradicionales como computadoras portátiles y servidores. Los tipos de conexiones de red pueden incluir conexiones Wi-Fi, conexiones Bluetooth y comunicación de campo cercano (NFC). El IoT incluye dispositivos como electrodomésticos "inteligentes", como refrigeradores y termostatos; sistemas de seguridad para el hogar; periféricos informáticos, como cámaras web e impresoras; tecnología wearable,como Apple Watches y Fitbits; routers; y dispositivos de altavoces inteligentes, como Amazon Echo y Google Home.
 
-![](https://www.how2shout.com/wp-content/uploads/2018/10/What-is-internet-of-things-IOT.png)
 
 ### **BIG DATA**
 Big data es un término que describe el gran volumen de datos – estructurados y no estructurados – que inundan una empresa todos los días. Pero no es la cantidad de datos lo importante. Lo que importa es lo que las organizaciones hacen con los datos. El big data puede ser analizado para obtener insights que conlleven a mejores decisiones y acciones de negocios estratégicas.
 
 ![image](https://user-images.githubusercontent.com/83653403/117557390-01d00800-b038-11eb-9b48-a6558d59a3af.png)
 
-***Volumen*** 
+- **Volumen**:
 Las organizaciones recopilan datos de diversas fuentes, como transacciones comerciales, dispositivos inteligentes (IO), equipo industrial, vídeos, medios sociales y más. En el pasado, su almacenamiento habría sido un problema - pero el almacenamiento más barato en plataformas como los data lakes y el Hadoop han aliviado la carga.
 
 ![image](https://user-images.githubusercontent.com/83653403/117557421-48bdfd80-b038-11eb-8eff-311c3c4ddf3d.png)
 
-***Velocidad*** 
+- **Velocidad**:
 Con el crecimiento del Internet de las Cosas, los datos llegan a las empresas a una velocidad sin precedentes y deben ser manejados de manera oportuna. Las etiquetas RFID, los sensores y los medidores inteligentes están impulsando la necesidad de manejar estos torrentes de datos en tiempo casi real.
 
 ![image](https://user-images.githubusercontent.com/83653403/117557450-989cc480-b038-11eb-8015-f4c103b49799.png)
 
-***Variedad***
+- **Variedad**:
 Los datos se presentan en todo tipo de formatos: desde datos numéricos estructurados en bases de datos tradicionales hasta documentos de texto no estructurados, correos electrónicos, vídeos, audios, datos de teletipo y transacciones financieras.
 
-***Variabilidad***
+- **Variabilidad**:
 Además de las crecientes velocidades y variedades de datos, los flujos de datos son impredecibles, cambian a menudo y varían mucho. Es un reto, pero las empresas necesitan saber cuándo algo está de moda en los medios sociales, y cómo gestionar los picos de carga de datos diarios, estacionales y desencadenados por eventos.
 
-***Veracidad***
+- **Veracidad**:
 La veracidad se refiere a la calidad de los datos. Debido a que los datos provienen de tantas fuentes diferentes, es difícil vincular, comparar, limpiar y transformar los datos a través de los sistemas. Las empresas necesitan conectar y correlacionar las relaciones, las jerarquías y los múltiples vínculos de datos. De lo contrario, sus datos pueden salirse de control rápidamente.
 
 ![](![image](https://user-images.githubusercontent.com/83653403/117557381-ec5ade00-b037-11eb-9ad8-03b84646aec5.png))
 
 ## <p>Computo <br>
+    
 Un equipo de computo es un dispositivo electrónico que cuenta con una tarjeta madre que es la que controla los demás componentes del equipo, un procesador, una memoria RAM (almacenamiento temporal de la información), Memoria de almacenamiento (donde se guarda la infomación del usuario y del sistema) y software que es la conección entre el usuario y el equipo, gracias al cual el usuario puede asignar órdenes al equipo para realizar procesos. </p>
 Esta es la estructura base de un equipo de computo, dependiendo del tipo de equipo puede estar acompañando en un teclado, ratón y monitor o solamente una pantalla táctil que suple las funciones del teclado y ratón como es el caso de los celulares y tabletas. </p>
+
+Partes de la computadora.
 ![partes de la computadora](http://www.accesoriosparacomputadores.co/blog/wp-content/uploads/2015/03/principales-partes-del-computador.jpg)
 
 ## Comunicación entre equipos de computo <br>
@@ -154,6 +145,8 @@ Pero el almacenamiento no es lo único, también se puede usar de forma remota q
 <br>
 ![nube](https://www.muycomputer.com/wp-content/uploads/2015/02/Almacenamiento_Nube-630x450.jpg)
 <br>
+
+
 ## Tipos de nubes
 #### Existen tres tipos de nube:
 - **Nube privada**:
