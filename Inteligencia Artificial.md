@@ -6,7 +6,7 @@
 
 Conjunto de elementos físicos o materiales que constituyen una computadora o un sistema informático.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsalesystems.es%2Fel-hardware-tipos-de-harware%2F&psig=AOvVaw1xgHtVL3Hel45HnVngaRyQ&ust=1620717174105000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD6-pHIvvACFQAAAAAdAAAAABAD)
+![](https://s1.significados.com/foto/hardware.jpg)
 
 - ## **Software**
 
